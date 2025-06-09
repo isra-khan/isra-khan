@@ -1,5 +1,6 @@
 Hi, I’m Isra! 👋
-🔥 Software Developer
+
+🔥 Flutter Developer
 
  passionately building cool projects
 
