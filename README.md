@@ -1,5 +1,7 @@
 Hi, I’m Isra! 👋
-🔥 Software Developer passionately building cool projects
+🔥 Software Developer
+
+ passionately building cool projects
 
 ✨ Favorite technologies: Flutter , Java
 
