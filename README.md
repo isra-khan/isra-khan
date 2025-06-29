@@ -12,5 +12,4 @@
 * ❤️ I love **reading books, learning new tech, and drinking chai while coding**
 * ⚡ Fun fact: **I can debug layout issues faster than I can decide what to eat 😄**
 
-* ![Woman Typing](https://media.tenor.com/XfQXHgE3jC4AAAAC/woman-coding-computer.gif)]
 
