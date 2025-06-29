@@ -6,4 +6,4 @@ Hi, I’m Isra! 👋
 
 ✨ Favorite technologies: Flutter , Java
 
-📧 Reach me at: isranasir.ns2@gmail.com
+📧 Reach me at: israkhan.ik1@gmail.com
