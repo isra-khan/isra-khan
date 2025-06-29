@@ -4,6 +4,7 @@ Hi, I’m Isra! 👋
 
  passionately building cool projects
 
-✨ Favorite technologies: Flutter , Java
+✨ Favorite technology Flutter
+
 
 📧 Reach me at: israkhan.ik1@gmail.com
