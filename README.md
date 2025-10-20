@@ -1,11 +1,9 @@
 
 ## Hi, I’m Isra! 👋
-[![Portfolio](https://your-hosted-images.com/buttons/portfolio-green.png)](https://your-portfolio.com)  
-[![X / Twitter](https://your-hosted-images.com/buttons/twitter-black.png)](https://twitter.com/yourhandle)  
-[![Instagram](https://your-hosted-images.com/buttons/instagram-pink.png)](https://instagram.com/yourhandle)  
-[![LinkedIn](https://your-hosted-images.com/buttons/linkedin-blue.png)](https://linkedin.com/in/yourhandle)  
-[![Medium](https://your-hosted-images.com/buttons/medium-black.png)](https://medium.com/@yourhandle)  
-[![Stack Overflow](https://your-hosted-images.com/buttons/stackoverflow-orange.png)](https://stackoverflow.com/users/youruserid)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_HANDLE)
+
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/YOUR_STACKOVERFLOW_ID/YOUR_STACKOVERFLOW_USERNAME)
+
 
 * 👂 My name is **Isra Khan**
 * 👩 Pronouns: **She/Her**
