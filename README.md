@@ -28,6 +28,8 @@ Let's connect!
 
 ![isra-khan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=isra-khan&theme=vue-dark&hide_border=true)
 
+https://www.israkhan.dev
+
 
 
      
