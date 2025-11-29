@@ -4,7 +4,6 @@
 Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isra-khan1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_HANDLE) [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19272577/isra-khan)
-https://www.israkhan.dev
 
 
 * 👂 My name is **Isra Khan**
@@ -14,7 +13,8 @@ https://www.israkhan.dev
 * 🤝 I’m looking to collaborate on **open-source Flutter projects**
 * 🤔 I’m looking for help with **clean architecture and advanced animations in Flutter**
 * 💬 Ask me about **Flutter, Dart, Firebase, or responsive UI design**
-* 📫 How to reach me: israkhan.ik1@gmail.com or https://www.linkedin.com/in/isra-khan-37b59b371/
+* 📫 How to reach me: israkhan.ik1@gmail.com or https://www.linkedin.com/in/isra-khan-37b59b371/ or https://www.israkhan.dev
+
 * ❤️ I love **reading books, learning new tech, and drinking chai while coding**
 * ⚡ Fun fact: **I can debug layout issues faster than I can decide what to eat 😄**
 
