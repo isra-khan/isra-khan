@@ -4,7 +4,7 @@
 Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isra-khan1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_HANDLE) [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19272577/isra-khan)
-
+https://www.israkhan.dev
 
 
 * 👂 My name is **Isra Khan**
@@ -21,7 +21,7 @@ Let's connect!
 
 
 ![JXA0](https://github.com/user-attachments/assets/1b8870a2-5225-40a3-ae30-66bbaf418428)
-https://www.israkhan.dev
+
 
 
 
