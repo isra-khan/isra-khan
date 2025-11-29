@@ -14,7 +14,7 @@ Let's connect!
 * 🤔 I’m looking for help with **clean architecture and advanced animations in Flutter**
 * 💬 Ask me about **Flutter, Dart, Firebase, or responsive UI design**
 * 👩 Wanna see, what I do? Portfolio https://www.israkhan.dev
-* 📫 How to reach me: israkhan.ik1@gmail.com or https://www.linkedin.com/in/isra-khan-37b59b371/ or 
+* 📫 How to reach me: israkhan.ik1@gmail.com or https://www.linkedin.com/in/isra-khan-37b59b371/  
 * ❤️ I love **reading books, learning new tech, and drinking chai while coding**
 * ⚡ Fun fact: **I can debug layout issues faster than I can decide what to eat 😄**
 
